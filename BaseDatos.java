@@ -19,9 +19,9 @@ public class BaseDatos
     {  
 		habitaciones.add(new Habitacion(1, 10, 1, 0, 1));
         habitaciones.add(new Habitacion(2, 11, 1, 1, 4));
-        habitaciones.add(new Habitacion(3, 12, 2, 2, 2));
-        habitaciones.add(new Habitacion(4, 13, 2, 3, 0));
-        habitaciones.add(new Habitacion(5, 20, 2, 4, 0));
+		habitaciones.add(new Habitacion(3, 12, 2, 2, 2));
+		habitaciones.add(new Habitacion(4, 13, 2, 3, 0));
+		habitaciones.add(new Habitacion(5, 20, 2, 4, 0));
         habitaciones.add(new Habitacion(6, 21, 2, 5, 3));
         habitaciones.add(new Habitacion(7, 22, 3, 6, 0));
         habitaciones.add(new Habitacion(8, 23, 3, 7, 0));
